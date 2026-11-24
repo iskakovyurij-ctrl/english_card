@@ -5,7 +5,7 @@ DB_CONFIG = {
     "port": 5432,
     "database": "english_card",
     "user": "postgres",
-    "password": "postgres",
+    "password": "2929",
 }
 
 # 10 общих слов для всех пользователей (засеиваются один раз)
